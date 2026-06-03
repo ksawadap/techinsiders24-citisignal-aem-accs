@@ -112,7 +112,8 @@
               }
             }
           }
-        },{
+        },
+        {
   "title": "BrandConcierge",
   "id": "brandconcierge",
   "plugins": {
@@ -127,7 +128,7 @@
     }
   }
 },
-        {
+{
           "title": "Card",
           "id": "card",
           "plugins": {
